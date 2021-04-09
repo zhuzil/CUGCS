@@ -8,3 +8,7 @@
 
 - [地大选课攻略](./Documents/地大选课攻略/地大选课攻略.md)
 - 地大宿舍档案
+
+# 干货分享
+
+- 高数叔：期末真题解析之中国地质大学：https://www.bilibili.com/video/BV1qE411E7gA
